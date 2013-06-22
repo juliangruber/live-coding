@@ -36,11 +36,11 @@ very attentive to get what they're telling you subliminally.
 Whenever you're doing or using something that is a core concept of your programming environment,
 language or framework, but where you're not sure if everyone understands it or has used it, ask
 
-  How many of you have used this before?
+> How many of you have used this before?
 
 Do **not ask**
 
-  Who doesn't know how this works?
+> Who doesn't know how this works?
 
 because most people won't have the courage to raise their hands.
 
