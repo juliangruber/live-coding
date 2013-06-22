@@ -21,7 +21,7 @@ you'll still make it to the most important part of your presentation.
 
 ## Listen carefully
 
-Your audience will makes sounds while listening. As long as you're not on a podium where you neither
+Your audience will make sounds while listening. As long as you're not on a podium where you neither
 hear nor even see them, you can make great use of what you percieve from your listeners.
 
 ## Describe
