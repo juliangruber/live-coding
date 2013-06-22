@@ -67,7 +67,7 @@ I want to know how people who do something better than me think. I don't care so
 
 People love this personal insight. Don't miss that chance to make an *even greater impact*.
 
-## Feedback
+## Get feedback
 
 Make it clear from the beginning that you want to hear feedback. Make it clear that you want to be interrupted.
 People will be wonderfully helpful pointing out typos, syntax errors or other mistakes. Due to the fact that you're
